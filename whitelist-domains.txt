@@ -1,3 +1,5 @@
 covid19japan.com
 covid-misp.ncsc.gov
+covid-19.iglocska.eu
+
 
