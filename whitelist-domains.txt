@@ -16,5 +16,6 @@ covid-misp.ncsc.gov.ie
 covid.apollo247.com
 covid19india.org
 covid19japan.com
+jcovid.com
 survivecoronavirus.org
 vaccine-coronavirus.com
