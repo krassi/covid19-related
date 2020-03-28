@@ -10,3 +10,4 @@ covid19japan.com
 foph-coronavirus.ch
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
+info-coronavirus.be
