@@ -9,6 +9,7 @@ covid.apollo247.com
 covid19india.org
 covid19japan.com
 foph-coronavirus.ch
+https://covid19.govt.nz/
 ncov2019.live
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
