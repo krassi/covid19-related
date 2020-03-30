@@ -6,10 +6,13 @@ coronamadrid.com
 covid-19.iglocska.eu
 covid-misp.ncsc.gov.ie
 covid.apollo247.com
+covid19.govt.nz
 covid19india.org
 covid19japan.com
+cucovid19.ie
 foph-coronavirus.ch
-https://covid19.govt.nz/
+gov.ie
+hsecovid19.ie
 ncov2019.live
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
