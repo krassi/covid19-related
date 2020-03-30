@@ -4,5 +4,9 @@ This repository is designed to collect public CTI resources for use by incident 
 
 whitelist-domains.txt - list of domains which provides legitimate COVID-19 services and should be excluded from automatically generated blacklists. I am trying to add only very high fidelity domains here. Always manually verified.
 
+whitelist-domains-med-confidence.txt - Manually verified but not scrutinized as whitelist-domains.txt
+
+whitelist-domains-auto.txt - Automatically generated domains. Sourced from quality providers but nevertheless automatically generated.
+
 cyber-threat-coalition.txt - from the COVID-19 Cyber Threat Coalition Slack.
 
