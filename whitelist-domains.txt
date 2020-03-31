@@ -3,6 +3,7 @@ bag-coronavirus.ch
 bag-coronavirus.ch
 corona-data.ch
 coronamadrid.com
+coronavirus.cl
 coronavirus.jhu.edu
 covid-19-1-newhavenct.hub.arcgis.com
 covid-19.iglocska.eu
@@ -21,3 +22,4 @@ hsecovid19.ie
 ncov2019.live
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
+viruscorona.cl
