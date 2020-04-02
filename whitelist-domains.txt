@@ -25,3 +25,6 @@ ncov2019.live
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
 viruscorona.cl
+covid.saude.gov.br
+coronavirus.ceara.gov.br
+coronavirus.ms.gov.br
