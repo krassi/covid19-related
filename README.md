@@ -8,5 +8,5 @@ whitelist-domains-med-confidence.txt - Manually verified but not scrutinized as 
 
 whitelist-domains-auto.txt - Automatically generated domains. Sourced from quality providers but nevertheless automatically generated.
 
-cyber-threat-coalition.txt - from the COVID-19 Cyber Threat Coalition Slack.
+REMOVED (due to false positives) cyber-threat-coalition.txt - from the COVID-19 Cyber Threat Coalition Slack.
 
