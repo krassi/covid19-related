@@ -47,3 +47,4 @@ ncov2019.live
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
 viruscorona.cl
+coronavirus.jhu.edu
