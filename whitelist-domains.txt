@@ -48,3 +48,4 @@ ncov2019.live
 ofsp-coronavirus.ch
 ufsp-coronavirus.ch
 viruscorona.cl
+covid19tracker.cc
