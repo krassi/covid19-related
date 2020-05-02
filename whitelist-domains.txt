@@ -4,17 +4,20 @@ app.contracovid.com.br
 auxilio.caixa.gov.br
 bag-coronavirus.ch
 bag-coronavirus.ch
+block-covid.org
 campanhacoronavirus.barro.ce.gov.br
 ciis.fmrp.usp.br
 co19.oracle.com
 combateaocoronavirus.feira.br
 contracovid.com.br
 corona-data.ch
+corona-stats.co.za
 coronamadrid.com
 coronavirus.alemparaiba.mg.gov.br
 coronavirus.amazonas.am.gov.br
 coronavirus.ceara.gov.br
 coronavirus.cl
+coronavirus.datafree.co
 coronavirus.es
 coronavirus.es.gov.br
 coronavirus.fapce.edu.br
@@ -44,6 +47,7 @@ covid19-phwstatement.nhs.wales
 covid19.criciuma.sc.gov.br
 covid19.doisvizinhos.pr.gov.br
 covid19.es
+covid19.figshare.com
 covid19.gob.es
 covid19.govt.nz
 covid19.ifnoar.com.br
@@ -55,6 +59,7 @@ covid19healthbot.cdc.gov
 covid19india.org
 covid19japan.com
 covid19nasfavelas.meurio.org.br
+covid19sa.org
 covidcuritiba.com.br
 cucovid19.ie
 foph-coronavirus.ch
@@ -82,6 +87,7 @@ ncov2019.live
 novocoronavirus.recife.pe.gov.br
 ofsp-coronavirus.ch
 pecontracoronavirus.pe.gov.br
+sacoronavirus.co.za
 saolucascoronavirus.com.br
 suzanocoronavirus.com.br
 ufsp-coronavirus.ch
