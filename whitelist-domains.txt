@@ -34,6 +34,7 @@ coronavirus.ro.gov.br
 coronavirus.saude.gov.br
 coronavirus.sc.gov.br
 coronavirus.to.gov.br
+covidwa.com
 covid-19-1-newhavenct.hub.arcgis.com
 covid-19.es
 covid-19.gob.es
@@ -62,6 +63,7 @@ covid19nasfavelas.meurio.org.br
 covid19sa.org
 covidcuritiba.com.br
 cucovid19.ie
+findyourphasewa.org
 foph-coronavirus.ch
 gov.ie
 hcacovid19form.com
